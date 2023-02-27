@@ -1,6 +1,6 @@
-module.exports = {
-  
 
+  
+const firebaseConfig = {
 
   apiKey: 'AIzaSyAKAmRDsQRiX5_eS-qCYCAGscw0NCIcJVE',
   authDomain: 'bro-bet-edd0f.firebaseapp.com',
