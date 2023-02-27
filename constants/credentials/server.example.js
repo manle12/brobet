@@ -11,5 +11,10 @@ module.exports = {
   'client_x509_cert_url': ''
 }
 
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
+
+
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
